@@ -1,10 +1,9 @@
 ---
 title: Dieu et l'État
 author: Michel Bakounine
-lang: fr
 version: Première édition Genève 1882
-license: CC BY-SA
 
+import_config: ../common.book
 tex.class: book
 
 output.html: ../docs/dieu_etat.html

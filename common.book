@@ -1,0 +1,8 @@
+lang: fr
+license: "[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.fr)"
+
+html.footer: "{{{title}}} par {{{author}}}
+{{#has_version}}, {{{version}}}{{/has_version}}
+
+
+Texte dans le domaine public, récupéré sur [Wikisource](https://fr.wikisource.org) sous licence {{{license}}} et mis en page avec [Crowbook](https://github.com/lise-henry/crowbook/) {{{crowbook_version}}}"
