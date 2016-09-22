@@ -1,0 +1,26 @@
+import_config: ../common.book
+author: Arthur Conan Doyle
+title: Le Chien des Baskerville
+version: Traduit par Adrien de Jassaud, 1905
+
+html_single.one_chapter: false
+
+output.html: ../docs/baskerville.html
+output.pdf: ../docs/baskerville.pdf
+output.epub: ../docs/baskerville.epub
+
++ chapitre_01.md
++ chapitre_02.md
++ chapitre_03.md
++ chapitre_04.md
++ chapitre_05.md
++ chapitre_06.md
++ chapitre_07.md
++ chapitre_08.md
++ chapitre_09.md
++ chapitre_10.md
++ chapitre_11.md
++ chapitre_12.md
++ chapitre_13.md
++ chapitre_14.md
++ chapitre_15.md
